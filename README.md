@@ -40,8 +40,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafu-zhu&layout=compact&card_width=400&exclude_repo=dafu-zhu.github.io"" hspace="20"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafu-zhu&show_icons=true&locale=en" alt="dafu-zhu" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dafu-zhu&layout=compact&card_width=330&exclude_repo=dafu-zhu.github.io&langs_count=7"
+    hspace="10"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dafu-zhu&show_icons=true&locale=en&card_width=330"
+  />
 </p>
 
 <h3 align="left">Connect with me:</h3>
