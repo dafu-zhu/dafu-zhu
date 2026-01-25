@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafu-zhu&show_icons=true&locale=en&layout=compact" alt="dafu-zhu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafu-zhu&layout=compact&card_width=400" hspace="20"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dafu-zhu&show_icons=true&locale=en" alt="dafu-zhu" />
 </p>
 
