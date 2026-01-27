@@ -8,6 +8,8 @@
 
 👨‍💻 Projects & portfolio: https://dafu-zhu.github.io/
 
+✨ Many of my repos are internship projects, which I set private
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> 
