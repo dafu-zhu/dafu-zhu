@@ -43,13 +43,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dafu-zhu&layout=compact&card_width=330&exclude_repo=dafu-zhu.github.io&langs_count=7"
-    hspace="10"
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dafu-zhu&layout=compact&langs_count=7&exclude_repo=dafu-zhu.github.io"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dafu-zhu&show_icons=true&locale=en&card_width=330"
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api?username=dafu-zhu&show_icons=true&hide_title=true"
   />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
