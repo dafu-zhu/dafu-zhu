@@ -1,14 +1,8 @@
-# Hi 👋, I'm Dafu Zhu
+# Hi 👋, I'm Dafu
 
 `Full-stack Quant Developer`
 
-🔭 I'm currently working on **a GP + RL–driven alpha mining project**
-
-🌱 I'm currently learning **C++**
-
 👨‍💻 Projects & portfolio: https://dafu-zhu.github.io/
-
-✨ Many of my repos are internship projects, which I set private
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
