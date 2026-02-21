@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dafu
 
-`Full-stack Quant Developer`
+`Full-stack Quant Researcher`
 
 👨‍💻 Projects & portfolio: https://dafu-zhu.github.io/
 
