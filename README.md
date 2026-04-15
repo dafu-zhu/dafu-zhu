@@ -5,21 +5,23 @@
 👨‍💻 Projects & portfolio: https://dafu-zhu.github.io/
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=matlab" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img
