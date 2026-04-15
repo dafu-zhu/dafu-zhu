@@ -36,8 +36,22 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/dafu-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dafu-zhu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dafu-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafu-zhu" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dafuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dafuz" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dafu-zhu" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/dafu-zhu" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/dafuz/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
